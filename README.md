@@ -1,1 +1,3 @@
 # EggTimer
+
+![](eggTimer.gif)
